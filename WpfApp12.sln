@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp12", "WpfApp12\WpfApp12.csproj", "{DF75A93D-9289-41C9-98E2-6DC727AC4FBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mashinka", "cvetochek\mashinka.csproj", "{BBF2824C-D7D1-4160-8BC4-7330036EFF27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF75A93D-9289-41C9-98E2-6DC727AC4FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF75A93D-9289-41C9-98E2-6DC727AC4FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF75A93D-9289-41C9-98E2-6DC727AC4FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF75A93D-9289-41C9-98E2-6DC727AC4FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF2824C-D7D1-4160-8BC4-7330036EFF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF2824C-D7D1-4160-8BC4-7330036EFF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF2824C-D7D1-4160-8BC4-7330036EFF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF2824C-D7D1-4160-8BC4-7330036EFF27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EDDB6C7-27E9-4623-A20B-F755AD898B6A}
+	EndGlobalSection
+EndGlobal

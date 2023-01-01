@@ -1,0 +1,20 @@
+﻿<Window x:Class="cvetochek.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:cvetochek"
+        mc:Ignorable="d"
+           Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Ellipse HorizontalAlignment="Left" Height="111" Stroke="Black" VerticalAlignment="Top" Width="111" Margin="112,280,0,0" Fill="#FF8FDA12"/>
+        <Ellipse HorizontalAlignment="Left" Height="111" Stroke="Black" VerticalAlignment="Top" Width="111" Margin="583,280,0,0" Fill="#FFA8E60B"/>
+        <Path Data="M103.5,323.04 L54.5,319.58001 65,236.00969 138.5,212.84802 231.5,200.7153 261.5,135.52206 314,104.12154 410.68629,105.91481 519.54885,112.90157 637.56878,116.39495 661.15246,184.51586 714.79859,224.68972 745.85967,282.33049 752.37249,334.73119 704.31241,340.01892 686.28988,283.70568 638.22979,264.53176 594.67534,283.70568 579.65656,315.0812 570.6453,337.74129 476.027,337.74129 306.31483,332.51204 235.72657,330.76895 214.70029,283.70568 162.13457,266.27484 124.58763,274.99026 111.07073,316.82428 z" Fill="#FFDA6868" HorizontalAlignment="Center" Height="204" Margin="0,135,0,0" Stroke="Black" Stretch="Fill" VerticalAlignment="Top" Width="698"/>
+        <Path Data="M790,391 L0,391" Fill="#FFF4F4F5" HorizontalAlignment="Center" Height="1" Margin="0,391,0,0" Stroke="Black" Stretch="Fill" VerticalAlignment="Top" Width="791"/>
+        <Path Data="M318,189.54 C316.5,255.54 316,254.57999 316,254.57999 L374.5,256.12172 C374.5,256.12172 374.5,196.03916 374.5,196.03916 375.49153,188.58599 375.94438,189.08287 375.94438,189.08287" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="68" Margin="316,190,0,0" Stroke="Black" Stretch="Fill" VerticalAlignment="Top" Width="60"/>
+        <Path Data="M471,188.04 L471,258.07999 557.91468,256.95268 620.1396,255.28506 619.64083,198.08573 619.64083,189.08059" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="71" Margin="471,188,0,0" Stroke="Black" Stretch="Fill" VerticalAlignment="Top" Width="150"/>
+        <Path Data="M281.32985,150.47808 L261.14357,214.91529 229.97857,214.38819 245.42143,185.03723 257.13549,160.11763" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="67" Margin="230,151,0,0" Stroke="Black" Stretch="Fill" VerticalAlignment="Top" Width="53"/>
+        <Path Data="M1170,288.54" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="1" Margin="1170,289,0,0" Stroke="Black" Stretch="Fill" VerticalAlignment="Top" Width="1"/>
+
+    </Grid>
+</Window>
